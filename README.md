@@ -62,7 +62,7 @@ git push origin <branch_name>
 To setup CI/CD pipeline in heroku we need 3 information
 
 1. HEROKU_EMAIL    = deploymentatheroku@gmail.com
-2. HEROKU_API_KEY  = 7e6292c6-1391-42cd-a572-7e8169b2b7cc
+2. HEROKU_API_KEY  = <>
 3. HEROKU_APP_NAME = hppredictn
 
 
