@@ -35,7 +35,7 @@ git add .
 
 > Note : To ignore file or folder from git we can write name of file/folder in .gitignore file
 
-To sceck the git status
+To check the git status
 ```
 git status
 ```
@@ -61,7 +61,9 @@ git push origin <branch_name>
 
 To setup CI/CD pipeline in heroku we need 3 information
 
-
+1. HEROKU_EMAIL    = 
+2. HEROKU_API_KEY  = 
+3. HEROKU_APP_NAME = 
 
 BUILD DOCKER IMAGE
 ```
@@ -77,7 +79,7 @@ docker images
 
 Run docker image
 ```
-docker run -p 5000:5000 -e PORT=5000 6369ce28b197 (<IMAGE ID>)
+docker run -p 5000:5000 -e PORT=5000 6369ce28b197621 (<IMAGE ID>)
 ```
 
 To check running container in docker
