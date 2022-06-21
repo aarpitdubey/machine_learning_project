@@ -4,6 +4,10 @@
 
 [California House Prediction](https://hppredictn.herokuapp.com/)
 
+OR
+
+https://hppredictn.herokuapp.com/
+
 ### Software and account Requirement
 
 1. [Githun Account](https://github.com)
