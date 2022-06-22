@@ -92,3 +92,9 @@ To stop docker container
 ```
 docker stop <container_id>
 ```
+
+To start the setup or getting all requirements type the command below in cmd
+
+```
+python setup.py install
+```
